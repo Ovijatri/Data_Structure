@@ -1,6 +1,6 @@
 #include<stdio.h>
 
-#define size 5
+#define size 10
 int arr[size];
 
 void traversing(int *a){
